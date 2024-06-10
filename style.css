@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    margin: auto;
+    max-width: 800px;
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(41, 36, 30);
+}
+
+p{
+    font-size: 22px;
+}
